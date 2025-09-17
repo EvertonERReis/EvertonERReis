@@ -47,6 +47,6 @@ Estou cursando como Técnico de Desenvolvimento de Sistemas.
 
 <div>
   <a href="https://instagram.com/_.tom71" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:dhs.everton.edu.2009@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:dhs.everton.edu.2009@gmail.com"><img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://www.bing.com/search?q=gmail&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=gami&sc=13-4&sk=&cvid=413DA858FFBF46888A36BEBBC4327A2F&filters=ufn%3A"Gmail"%20sid%3A"c2fb3ac4-dd75-2fbf-e526-76f8a2edfe55")" target="_blank"></a>
     
 </div>
