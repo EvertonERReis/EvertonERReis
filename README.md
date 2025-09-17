@@ -2,16 +2,15 @@
 
 ## Bem-vindo ao meu perfil do GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-🎓 Estou começando minha jornada desde 2024 e então atuo com desenvolvimento de sistemas.
-Estou cursando como Técnico de Desenvolvimento de Sistemas.
+- 🎓 Desde 2024 iniciei minha jornada em Desenvolvimento de Sistemas e atualmente estou cursando o Técnico em Desenvolvimento de Sistemas no Senac-RS.
 
-💼 Atualmente, estou apredendo programação no Senac-RS, onde aprendo disciplinas como lógica de programação, front-end, back-end e banco de dados.
+- 💼 Durante a formação, tenho estudado disciplinas como lógica de programação, front-end, back-end e banco de dados.
 
-🚀 Tenho experiência com diversas linguagens e tecnologias (`Java`, `Python`, `JavaScript`, `TypeScript`, `PHP`, `SQL`, entre outras) e estou sempre buscando novos desafios que unam **tecnologia, inovação e educação**.
+- 🚀 Tenho experiência com diversas linguagens e tecnologias (`Java`, `Python`, `JavaScript`, `TypeScript`, `PHP`, `SQL`, entre outras) e estou sempre buscando novos desafios que unam **tecnologia, inovação e educação**.
 
-🧠 Me interesso por tendências tecnológicas, com foco em jogos, Internet das Coisas (IoT) e soluções em computação em nuvem.
+- 🧠 Me interesso por tendências tecnológicas, com foco em jogos, Internet das Coisas (IoT) e soluções em computação em nuvem.
 
-🎮 Apaixonado por jogos, e sempre concentrado ouvindo música🎵.
+- 🎮 Apaixonado por jogos, e sempre concentrado ouvindo música🎵.
 
 ## 💻 Linguagens de programação
 
@@ -43,7 +42,7 @@ Estou cursando como Técnico de Desenvolvimento de Sistemas.
 
 ## 📬 Onde me encontrar
 
-👉 Curte trocar ideias sobre tecnologia, projetos, ensino ou até relembrar clássicos dos games? 😄 Só chamar!
+- 👉 Curte trocar ideias sobre tecnologia, projetos, ensino ou até nostalgia gamer? Só chamar! 😄
 
 <div>
   <a href="https://instagram.com/_.tom71" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
