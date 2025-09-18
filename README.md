@@ -8,7 +8,7 @@
 
 - 🚀 Tenho experiência com diversas linguagens e tecnologias (`Java`, `Python`, `JavaScript`, `TypeScript`, `PHP`, `SQL`, entre outras) e estou sempre buscando novos desafios que unam **tecnologia, inovação e educação**.
 
-- 🧠 Me interesso por tendências tecnológicas, com foco em jogos, Internet das Coisas (IoT) e soluções em computação em nuvem.
+- 🧠 Me interesso por tendências tecnológicas, com foco em jogos, Internet das Coisas e soluções em computação em nuvem.
 
 - 🎮 Apaixonado por jogos, e sempre concentrado ouvindo música🎵.
 
