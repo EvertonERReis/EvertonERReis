@@ -67,7 +67,7 @@
 <div>
   
   <a href="https://instagram.com/_.tom71" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:everton.edu.2009@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=everton.edu.2009@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
    
