@@ -7,7 +7,7 @@
 
 - 💼 Durante a formação, tenho estudado disciplinas como lógica de programação, front-end, back-end e banco de dados.
 
-- 🚀 Tenho experiência com diversas linguagens e tecnologias (`Java`, `Python`, `JavaScript`, `TypeScript`, `PHP`, `SQL`, entre outras) e estou sempre buscando novos desafios que unam **tecnologia, inovação e educação**.
+- 🚀 Tenho experiência com diversas linguagens e tecnologias (`Java`, `JavaScript`, `TypeScript`, `SQL`, entre outras) e estou sempre buscando novos desafios que unam **tecnologia, inovação e educação**.
 
 - 🧠 Me interesso por tendências tecnológicas, com foco em jogos, Internet das Coisas e soluções em computação em nuvem.
 
