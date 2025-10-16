@@ -1,5 +1,16 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5e5e5e"/>
+
 <h1 align="center"> Olá, meu nome é Éverton! 🧑🏻‍💻</h1>
 
+
+
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=f19494&center=true&width=435&lines=Eu+sou+o+%C3%89verton+Reis" alt="Typing SVG" /></a>
+
+</div>
+
+----
 
 ## Bem-vindo ao meu perfil do GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
@@ -13,25 +24,68 @@
 
 - 🎮 Apaixonado por jogos, e sempre concentrado ouvindo música🎵.
 
+---
+
+## 🌟 Sobre Mim
+
+```ts
+const evertonReis = {
+  nome: "Éverton Eduardo Rodrigues REis",
+  local: "São Leopoldo, Brasil 🇧🇷",
+  educacao: "Senac Unisinos -  São Lepoldo",
+  foco: "Desenvolvimento Full Stack",
+  objetivo: "Buscando meu espaço na área de tecnologia"
+};
+````
+
+---
+
 
 ## 📈 GitHub Stats
 
 <a href="https://github.com/EvertonERReis">
   <div align=center>
-    <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EvertonERReis&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide=css"/>
-  <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhDSouza&layout=compact&langs_count=10&theme=react&hide=css"/>
+    <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EvertonERReis&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry"/>
+    
+  <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhDSouza&layout=compact&langs_count=10&theme=blueberry"/>
+
+
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvertonERReis&theme=blueberry"/>
+  
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EvertonERReis&theme=blueberry"/>
+  
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EvertonERReis&theme=blueberry"/>
+  
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EvertonERReis&theme=blueberry&utcOffset=8"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=EvertonERReis&theme=tokyonight-duo" alt="GitHub Streak"/>
+
+</div>
+    
   </div>
   </a>
 
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EvertonERReis&theme=radical&mode=weekly" />
- </div>
+
  
  &nbsp;
  &nbsp;
 
 
+
+---
+
+
+### 👥 **Soft Skills**
+- ✅ **Comunicação** - Alinhamento claro de objetivos
+- ✅ **Adaptabilidade** - Flexibilidade às mudanças
+- ✅ **Aprendizado Contínuo** - Sempre evoluindo
+
+</td>
+</tr>
+</table>
+
+---
   
 
 ## 💻 Linguagens de programação
@@ -45,12 +99,16 @@
 
 </div>
 
+---
+
 ## 🛢️ Bancos de dados
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" alt="Postgre SQL"/>
 </div>
+
+---
 
 ## 🧰 Tecnologias e ferramentas
 
@@ -60,7 +118,7 @@
   <img src="logoNetBeans-removebg-preview.png" width="50" height="50" alt="NetBeans"/>
 </div>
 
-
+---
 
 ## 📬 Onde me encontrar
 
@@ -71,14 +129,12 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=everton.edu.2009@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
    
 - 👉 Curte trocar ideias sobre tecnologia, projetos, ensino ou até nostalgia gamer? Só chamar! 😄
 
         
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
- 
 
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e5e5e&height=100&section=footer"/>
 
   
