@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5e5e5e"/>
 
-<h1 align="center"> Olá, meu nome é Éverton! 🧑🏻‍💻</h1>
+<h1 align="center"> Olá, Bem-vindo ao meu universo dev! 🧑🏻‍💻</h1>
 
 
 
