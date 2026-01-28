@@ -47,7 +47,7 @@ const evertonReis = {
   <div align=center>
     <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EvertonERReis&show_icons=true&include_all_commits=true&count_private=true&theme=blueberry"/>
     
-  <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EvertonERReis&layout=compact&langs_count=10&theme=blueberry"/>
+  <img height="168em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EvertonERReis&theme=blueberry"/>
 
 
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvertonERReis&theme=blueberry"/>
