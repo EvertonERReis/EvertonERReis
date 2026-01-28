@@ -26,7 +26,7 @@
 
 ---
 
-## 🌟 Sobre Mim
+## 🐼 Sobre Mim
 
 ```ts
 const evertonReis = {
