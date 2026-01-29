@@ -53,9 +53,8 @@ const evertonReis = {
   
   <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EvertonERReis&theme=blueberry&utcOffset=8"/>
   
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=EvertonERReis&theme=tokyonight-duo" alt="GitHub Streak"/>
 
-</div>
+
     
   </div>
   </a>
