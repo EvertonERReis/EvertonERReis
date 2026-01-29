@@ -127,6 +127,11 @@ const evertonReis = {
    
 - 👉 Curte trocar ideias sobre tecnologia, projetos, ensino ou até nostalgia gamer? Só chamar! 😄
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhDSouza/dhDSouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhDSouza/dhDSouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dhDSouza/dhDSouza/output/pacman-contribution-graph.svg">
+</picture>
         
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5e5e5e&height=100&section=footer"/>
